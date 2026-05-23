@@ -81,11 +81,10 @@ def generate_pdf(data):
     comp = data.get("component_avgs", {})
     if comp:
         el.append(Paragraph("Scoring Breakdown", S["section"]))
-        crow = [["Component", "Score / 10", "Weight"],
-                ["TF-IDF Similarity",   f"{comp.get("similarity","-")}", "40%"],
-                ["Keyword Coverage",    f"{comp.get("keywords","-")}",   "25%"],
-                ["Grammar & Spelling",  f"{comp.get("grammar","-")}",    "20%"],
-                ["Answer Length",       f"{comp.get("length","-")}",     "15%"]]
+        crow = [["TF-IDF Similarity",   f"{comp.get('similarity','-')}", "40%"],
+["Keyword Coverage",    f"{comp.get('keywords','-')}",   "25%"],
+["Grammar & Spelling",  f"{comp.get('grammar','-')}",    "20%"],
+["Answer Length",       f"{comp.get('length','-')}",     "15%"]]
         ct = Table(crow, colWidths=[7*cm, 5*cm, 3.5*cm])
         ct.setStyle(TableStyle([
             ("BACKGROUND",    (0,0),(-1,0), INDIGO),
