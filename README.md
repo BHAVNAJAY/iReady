@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # iReady — Free AI/ML Interview Answer Analyzer
 
 > Practice. Analyze. Improve. — No paid AI API required.
@@ -35,3 +36,7 @@ npm install
 npm run dev
 ```
 Open http://localhost:5173
+=======
+# iReady
+iReady is a free interview preparation platform built with NLP and machine learning. It evaluates HR interview answers using TF-IDF cosine similarity, grammar correction, and keyword analysis delivering instant feedback and downloadable PDF reports.
+>>>>>>> c5670cb0c23e70ebea553ee9c005548ad9661e41

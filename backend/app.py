@@ -19,7 +19,8 @@ from analyzer import analyze_answers
 from report_generator import generate_pdf
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:5173","http://localhost:3000","http://127.0.0.1:5173"])
+# NEW — allows all origins (you can restrict later)
+CORS(app)
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 with open(os.path.join(BASE_DIR, "questions.json"), "r") as f:
