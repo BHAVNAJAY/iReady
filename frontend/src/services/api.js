@@ -1,10 +1,13 @@
+const BASE = import.meta.env.VITE_API_URL || '';
+
 export const getQuestions = async (difficulty) => {
-  const res = await fetch(`/questions/${difficulty}`);
+  const res = await fetch(`${BASE}/questions/${difficulty}`);
   if (!res.ok) throw new Error("Failed to fetch questions");
   return res.json();
 };
+
 export const analyzeAnswers = async (difficulty, answers) => {
-  const res = await fetch("/analyze", {
+  const res = await fetch(`${BASE}/analyze`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ difficulty, answers }),
@@ -12,8 +15,9 @@ export const analyzeAnswers = async (difficulty, answers) => {
   if (!res.ok) throw new Error("Analysis failed");
   return res.json();
 };
+
 export const downloadReport = async (reportData) => {
-  const res = await fetch("/download-report", {
+  const res = await fetch(`${BASE}/download-report`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(reportData),
