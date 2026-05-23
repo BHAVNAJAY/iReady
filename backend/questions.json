@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Tell me about yourself.",
+    "model_answer": "I am a dedicated and motivated professional who believes in continuous learning. I have strong communication and teamwork skills, a positive attitude, and a results-driven approach to work. I am eager to contribute meaningfully to this role and grow with the organization.",
+    "keywords": [
+      "dedicated",
+      "communication",
+      "teamwork",
+      "learning",
+      "growth",
+      "motivated",
+      "contribute",
+      "skills"
+    ]
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What are your greatest strengths?",
+    "model_answer": "My greatest strengths are strong communication, attention to detail, and adaptability. I work well under pressure, consistently meet deadlines, and collaborate effectively with teams. I am also self-motivated and take initiative to learn new skills.",
+    "keywords": [
+      "communication",
+      "adaptability",
+      "teamwork",
+      "deadline",
+      "initiative",
+      "motivated",
+      "skills",
+      "professional"
+    ]
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is your biggest weakness?",
+    "model_answer": "I sometimes spend too much time perfecting details. I am actively working on this by setting clear time limits and using priority frameworks to distinguish when good-enough is sufficient. This has helped me deliver faster without compromising quality.",
+    "keywords": [
+      "weakness",
+      "improve",
+      "priority",
+      "quality",
+      "working",
+      "balance",
+      "learning",
+      "deliver"
+    ]
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Why do you want to work for this company?",
+    "model_answer": "I am drawn to this company because of its strong reputation for innovation, supportive culture, and commitment to employee growth. My skills and values align well with the company mission. I am excited about the opportunity to contribute and grow professionally here.",
+    "keywords": [
+      "innovation",
+      "culture",
+      "growth",
+      "mission",
+      "values",
+      "contribute",
+      "opportunity",
+      "align"
+    ]
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Where do you see yourself in five years?",
+    "model_answer": "In five years I see myself as a skilled professional who has made meaningful contributions to the company. I aim to take on increasing responsibilities, grow into a leadership role, and continue developing my expertise while adding lasting value to the organization.",
+    "keywords": [
+      "growth",
+      "leadership",
+      "responsibility",
+      "skills",
+      "contribute",
+      "develop",
+      "professional",
+      "value"
+    ]
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Why are you leaving your current job?",
+    "model_answer": "I am looking for new challenges and greater opportunities for professional growth not available in my current role. I have gained valuable experience but feel ready to contribute my skills in a new environment that aligns with my long-term career goals.",
+    "keywords": [
+      "growth",
+      "opportunities",
+      "challenges",
+      "experience",
+      "contribute",
+      "skills",
+      "career",
+      "goals"
+    ]
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What motivates you at work?",
+    "model_answer": "I am motivated by meaningful work that challenges me and lets me grow professionally. Achieving goals, solving problems creatively, and collaborating with talented colleagues inspire me. I also find motivation knowing my efforts contribute positively to team and organizational success.",
+    "keywords": [
+      "motivated",
+      "challenge",
+      "growth",
+      "goals",
+      "collaborate",
+      "success",
+      "contribute",
+      "achieve"
+    ]
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "How do you handle stress and pressure?",
+    "model_answer": "I handle stress by prioritizing tasks by urgency and importance, breaking large problems into smaller steps, and maintaining a clear schedule. I stay calm and focused and communicate proactively with my team so issues are resolved before they escalate.",
+    "keywords": [
+      "prioritize",
+      "calm",
+      "focused",
+      "schedule",
+      "communicate",
+      "urgency",
+      "steps",
+      "manage"
+    ]
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "How would your colleagues describe you?",
+    "model_answer": "My colleagues would describe me as a reliable, approachable, and collaborative team member. I am known for my positive attitude, willingness to help others, and ability to stay focused under pressure. I communicate clearly and follow through on commitments consistently.",
+    "keywords": [
+      "reliable",
+      "collaborative",
+      "positive",
+      "communicate",
+      "committed",
+      "approachable",
+      "focused",
+      "consistent"
+    ]
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What makes you the right candidate for this role?",
+    "model_answer": "My skills, experience, and work ethic align closely with this role. I bring a strong foundation in relevant areas, genuine passion for the field, and the ability to learn quickly and adapt. I am committed to delivering results and adding value from day one.",
+    "keywords": [
+      "skills",
+      "experience",
+      "align",
+      "passionate",
+      "adaptable",
+      "results",
+      "committed",
+      "value"
+    ]
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "Describe a challenge you faced at work and how you overcame it.",
+    "model_answer": "A key team member resigned mid-project leaving a significant gap. I took initiative by redistributing tasks based on strengths, maintained transparent communication with stakeholders about revised timelines, and put in extra effort to ensure quality. We delivered the project on time and it strengthened my crisis management skills.",
+    "keywords": [
+      "initiative",
+      "challenge",
+      "communicate",
+      "collaborate",
+      "deadline",
+      "quality",
+      "solution",
+      "resilience"
+    ]
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "Tell me about a time you worked effectively in a team.",
+    "model_answer": "During a cross-functional product launch I coordinated between design, engineering, and marketing teams. I established regular check-ins, created shared documentation, and ensured all members were aligned on goals and timelines. The launch was delivered on schedule and received strong feedback.",
+    "keywords": [
+      "teamwork",
+      "cross-functional",
+      "coordination",
+      "communication",
+      "aligned",
+      "contribute",
+      "collaborate",
+      "success"
+    ]
+  },
+  {
+    "id": 13,
+    "difficulty": "medium",
+    "question": "How do you prioritize tasks when you have multiple deadlines?",
+    "model_answer": "I use a priority matrix to categorize tasks by urgency and importance. I identify non-negotiable deadlines, break projects into milestones, and use tools to track progress. I communicate proactively with stakeholders if timelines are at risk and reassess priorities as new work arrives.",
+    "keywords": [
+      "prioritize",
+      "urgency",
+      "importance",
+      "deadlines",
+      "communicate",
+      "systematic",
+      "organized",
+      "milestones"
+    ]
+  },
+  {
+    "id": 14,
+    "difficulty": "medium",
+    "question": "Describe a time when you demonstrated leadership.",
+    "model_answer": "When our team leader was unexpectedly unavailable during a product launch, I stepped up to coordinate the team. I delegated tasks based on individual strengths, maintained communication with all stakeholders, resolved blockers quickly, and kept the team motivated. The launch succeeded ahead of schedule.",
+    "keywords": [
+      "leadership",
+      "delegate",
+      "coordinate",
+      "communicate",
+      "stakeholders",
+      "initiative",
+      "successful",
+      "motivate"
+    ]
+  },
+  {
+    "id": 15,
+    "difficulty": "medium",
+    "question": "How do you handle constructive criticism or feedback?",
+    "model_answer": "I welcome constructive criticism as an opportunity to improve. When I receive feedback I listen carefully without becoming defensive, ask clarifying questions to fully understand the concern, and reflect on how to apply the suggestions. I actively seek feedback from colleagues to accelerate my professional growth.",
+    "keywords": [
+      "feedback",
+      "improve",
+      "listen",
+      "reflect",
+      "professional",
+      "growth",
+      "constructive",
+      "apply"
+    ]
+  },
+  {
+    "id": 16,
+    "difficulty": "medium",
+    "question": "Tell me about a time you failed and what you learned.",
+    "model_answer": "I once underestimated the complexity of a data migration project and missed a key milestone. I immediately took ownership, communicated transparently with my manager, and created a detailed recovery plan. I learned the value of early risk assessment, thorough effort estimation, and asking for help sooner.",
+    "keywords": [
+      "ownership",
+      "learn",
+      "communicate",
+      "improve",
+      "plan",
+      "transparent",
+      "estimation",
+      "growth"
+    ]
+  },
+  {
+    "id": 17,
+    "difficulty": "medium",
+    "question": "How do you deal with difficult colleagues or workplace conflicts?",
+    "model_answer": "I approach conflicts by seeking to understand the other person's perspective through calm private dialogue. I focus on the specific issue rather than personal differences, listen actively, and work toward a mutually agreeable solution. I believe professional empathy and clear communication resolve most workplace conflicts.",
+    "keywords": [
+      "conflict",
+      "empathy",
+      "perspective",
+      "communication",
+      "resolve",
+      "professional",
+      "listen",
+      "calm"
+    ]
+  },
+  {
+    "id": 18,
+    "difficulty": "medium",
+    "question": "Describe your greatest professional achievement.",
+    "model_answer": "My greatest achievement was leading a process improvement initiative that reduced report generation time by 60 percent. I identified bottlenecks, proposed an automated solution, and led implementation across three departments. The result saved the team over 15 hours per week and was recognized by senior leadership as a best practice.",
+    "keywords": [
+      "achievement",
+      "improvement",
+      "leadership",
+      "efficiency",
+      "results",
+      "initiative",
+      "implement",
+      "recognized"
+    ]
+  },
+  {
+    "id": 19,
+    "difficulty": "medium",
+    "question": "How do you keep yourself updated with your industry?",
+    "model_answer": "I stay updated by reading industry publications, following thought leaders on LinkedIn, attending webinars and conferences, and participating in online communities. I also complete online courses and certifications regularly. I dedicate time each week to learning because continuous development is essential.",
+    "keywords": [
+      "learning",
+      "updated",
+      "industry",
+      "courses",
+      "certifications",
+      "professional",
+      "continuous",
+      "skills"
+    ]
+  },
+  {
+    "id": 20,
+    "difficulty": "medium",
+    "question": "What would your previous manager say about you?",
+    "model_answer": "My previous manager would describe me as a reliable, proactive team member who consistently delivers high-quality work and takes initiative beyond core responsibilities. They would note my ability to manage multiple priorities, maintain a positive attitude under pressure, and contribute positively to team culture.",
+    "keywords": [
+      "reliable",
+      "proactive",
+      "quality",
+      "initiative",
+      "priorities",
+      "positive",
+      "dependable",
+      "contribute"
+    ]
+  },
+  {
+    "id": 21,
+    "difficulty": "hard",
+    "question": "Describe a situation where you had to make a difficult ethical decision.",
+    "model_answer": "I discovered a colleague was reporting inflated metrics in weekly reports. I addressed it privately with the colleague first then escalated to my manager with documented evidence when it continued. I prioritized organizational integrity while handling the situation professionally and discreetly, avoiding public embarrassment.",
+    "keywords": [
+      "integrity",
+      "ethical",
+      "accountability",
+      "transparent",
+      "professional",
+      "documented",
+      "responsible",
+      "discreet"
+    ]
+  },
+  {
+    "id": 22,
+    "difficulty": "hard",
+    "question": "How have you handled a professional disagreement with your manager?",
+    "model_answer": "I once disagreed with my manager's approach to a client proposal. I requested a private meeting, presented my perspective with supporting data, and listened carefully to their reasoning. We reached a compromise incorporating both viewpoints. I learned that respectful data-driven advocacy and openness to other perspectives are key.",
+    "keywords": [
+      "respectful",
+      "data-driven",
+      "compromise",
+      "professional",
+      "communication",
+      "perspective",
+      "listen",
+      "advocate"
+    ]
+  },
+  {
+    "id": 23,
+    "difficulty": "hard",
+    "question": "Describe a time you influenced others without formal authority.",
+    "model_answer": "I identified a communication gap causing project delays across teams. Without managerial authority I built a case using data showing the impact, proposed a structured daily standup format, and piloted it with willing team members. By demonstrating measurable results I gained broader adoption across the department.",
+    "keywords": [
+      "influence",
+      "initiative",
+      "data",
+      "leadership",
+      "credibility",
+      "solution",
+      "relationships",
+      "persuasion"
+    ]
+  },
+  {
+    "id": 24,
+    "difficulty": "hard",
+    "question": "How do you perform under high-pressure situations with tight deadlines?",
+    "model_answer": "Under pressure I stay effective by systematically prioritizing tasks, maintaining clear communication with stakeholders, and breaking complex work into achievable milestones. I identify and resolve bottlenecks proactively and delegate tasks appropriately. I remain calm and solution-focused, ensuring quality is never sacrificed under pressure.",
+    "keywords": [
+      "pressure",
+      "systematic",
+      "prioritize",
+      "communicate",
+      "delegate",
+      "calm",
+      "solution",
+      "quality"
+    ]
+  },
+  {
+    "id": 25,
+    "difficulty": "hard",
+    "question": "Tell me about a time you had to adapt to a major unexpected change.",
+    "model_answer": "When our organization underwent a sudden restructuring my entire team was realigned. I responded by embracing the change with a positive mindset, quickly understanding new processes and tools, proactively building relationships with new colleagues, and communicating concerns openly with leadership. I maintained full productivity throughout.",
+    "keywords": [
+      "adapt",
+      "change",
+      "positive",
+      "learning",
+      "proactive",
+      "communicate",
+      "resilience",
+      "flexibility"
+    ]
+  },
+  {
+    "id": 26,
+    "difficulty": "hard",
+    "question": "How have you contributed to improving a process or system at work?",
+    "model_answer": "I noticed our client onboarding took 12 days due to manual repetitive data entry. I mapped the current process, identified bottlenecks, proposed an automated workflow, and piloted it with one cohort. After confirming a 70 percent time reduction I led a full rollout, freeing significant resources and improving client satisfaction.",
+    "keywords": [
+      "process",
+      "improvement",
+      "efficiency",
+      "systematic",
+      "solution",
+      "measure",
+      "implement",
+      "results"
+    ]
+  },
+  {
+    "id": 27,
+    "difficulty": "hard",
+    "question": "Describe how you manage multiple competing high-priority tasks.",
+    "model_answer": "I manage competing priorities through structured planning and transparent communication. I use frameworks to assess true urgency versus perceived urgency, set clear milestones, and communicate proactively with all stakeholders when priorities conflict. I delegate strategically, reassess as conditions change, and protect the most critical outcomes.",
+    "keywords": [
+      "priorities",
+      "structured",
+      "planning",
+      "delegate",
+      "communicate",
+      "stakeholders",
+      "triage",
+      "systematic"
+    ]
+  },
+  {
+    "id": 28,
+    "difficulty": "hard",
+    "question": "How do you approach decisions when you have incomplete information?",
+    "model_answer": "I approach ambiguity by identifying what I know versus what I need to know. I gather information through targeted research and consultation with subject matter experts, then make a decision based on best available data while acknowledging uncertainty. I document assumptions, outline risks, build contingency plans, and set checkpoints to revisit.",
+    "keywords": [
+      "ambiguity",
+      "research",
+      "data-driven",
+      "decision",
+      "assumptions",
+      "risks",
+      "systematic",
+      "contingency"
+    ]
+  },
+  {
+    "id": 29,
+    "difficulty": "hard",
+    "question": "Describe your approach to working with cross-functional teams.",
+    "model_answer": "I start by investing time to understand each department's objectives, constraints, and priorities. I establish clear shared goals, communication channels, and defined roles early. I facilitate regular alignment meetings, document decisions and action items, and resolve interdependencies proactively before they become blockers.",
+    "keywords": [
+      "cross-functional",
+      "collaboration",
+      "communication",
+      "goals",
+      "alignment",
+      "proactive",
+      "respect",
+      "teamwork"
+    ]
+  },
+  {
+    "id": 30,
+    "difficulty": "hard",
+    "question": "Tell me about your most challenging project and how you delivered results.",
+    "model_answer": "My most challenging project was migrating a legacy billing system for thousands of users while maintaining zero disruption. I structured work into phased rollouts with rollback protocols, built rigorous testing pipelines, managed stakeholder expectations through weekly updates, and led a cross-functional team. We delivered on schedule with zero incidents.",
+    "keywords": [
+      "challenge",
+      "deliver",
+      "structured",
+      "stakeholders",
+      "leadership",
+      "results",
+      "systematic",
+      "quality"
+    ]
+  }
+]
