@@ -134,3 +134,4 @@ def analyze_answers(questions, user_answers):
         "component_avgs" : {"similarity": avg_sim, "keywords": avg_kw,
                             "grammar": avg_gram, "length": avg_len},
     }
+# TF-IDF + Cosine Similarity used to compare user answers with model answers
