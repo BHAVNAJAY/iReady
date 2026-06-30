@@ -19,6 +19,7 @@ body { font-family: "Inter", system-ui, sans-serif; background: #F5F7FF; color: 
   .btn-ghost {
     @apply border border-slate-200 text-slate-500 text-sm rounded-lg px-4 py-1.5
            hover:bg-slate-50 transition-colors cursor-pointer;
+  .btn-primary:hover { opacity: 0.95; }
   }
   .card { @apply bg-white rounded-2xl border border-indigo-100 shadow-sm p-5 transition-all; }
   .input {
